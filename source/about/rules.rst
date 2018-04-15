@@ -3,7 +3,8 @@ Forum & IRC Rules
 =================
 
 Welcome to the Sponge Project! We're glad you're here and interested in Sponge. We have a few rules that apply to all
-of our various methods of communications, including (but not limited to):
+of our various methods of communications, known as "Sponge systems" which are either owned, operated and/or managed
+by the Sponge project. These include (but are not limited to):
 
 * Official IRC channels: #sponge, #spongedev, #spongedocs
 * Sponge Forums
@@ -20,6 +21,15 @@ All users should also read our :doc:`tos` and follow the requirements it sets ou
 
 Read on for some more specific guidance, but please remember these rules are meant to be general, not a comprehensive
 list of do's and don'ts. This stuff should all be common sense.
+
+.. note::
+
+    Any of these rules are subject to change at any time without warning. Any content found to be in violation of
+    these rules, even if the content was created before a rule was in place, may be removed by moderator approval. These
+    rules apply generally to all Sponge methods of communication, but each individual sub method (eg: subreddit or Forum
+    category) may have its own set of additional rules and guidelines to add on top of these general rules. If this is
+    the case, both sets of rules must be followed. Rules and guidelines evolve as the Sponge community evolves. Use only
+    as directed; excessive use of FLARD may rot your socks.
 
 * Follow Support Guidelines (when they exist) for any issues you may have.
 
@@ -48,16 +58,10 @@ list of do's and don'ts. This stuff should all be common sense.
   favorite server hosting company, the server you play on, some piece of software you use for fun, another game, or
   whatever. Some exceptions are made in *Off-Topic* sections and are solely at the discretion of moderation staff.
 
-* Do not attempt to make a sale or sell anything on Sponge websites or systems. This includes but is not limited to
-  plugins (mods or any variation of the term), art assets, services, or any work to be provided. We specifically
-  *allow* offering a bounty in an *original post* in the **Devs Wanted** area, and developers may seek commissioned work
-  in the **Devs Available** category. Any further discussion of payment in these (or any other) threads is prohibited.
-
-  - Users may post job advertisements (with or without a bounty) within the “Devs Wanted” Category, however they must
-    follow the `Dev Wanted Template and Rules <https://forums.spongepowered.org/t/devs-wanted-template-guidelines/15531>`__.
-
-  - Users may post job requests (with or without rates) within the “Devs Available” Category, however they must follow
-    the `Dev Available Template and Rules <https://forums.spongepowered.org/t/devs-available-template-guidelines/15532>`__.
+* Do not attempt to make a sale or sell anything on Sponge systems. This includes, but is not limited to, plugins
+  (mods or any variation of the term), art assets, services, or any work to be provided. There are exceptions for
+  posts in our **Services Exchange** section for our forums, which are detailed in the :ref:`rules-services-exchange`
+  section below.
 
 * If it comes to our attention that a "lite" version plugin hosted by Sponge is being used as a promotion as a for-sale
   "premium" version, we reserve the right to remove the plugin listing. What constitutes a "lite" or "premium" version
@@ -78,12 +82,49 @@ list of do's and don'ts. This stuff should all be common sense.
 * The moderator, administrator or manager(s) of the various communication channels in use by the Sponge project shall
   have the last word in any dispute.
 
+.. _rules-services-exchange:
 
-.. note::
+Services Exchange
+~~~~~~~~~~~~~~~~~
 
-    Any of the above rules are subject to change at any time without warning. Any content found to be in violation of
-    these rules, even if the content was created before a rule was in place, can be removed by moderator approval. These
-    rules apply generally to all Sponge methods of communication, but each individual sub method (eg: subreddit or Forum
-    category) may have its own set of additional rules and guidelines to add on top of these general rules. If this is
-    the case, both sets of rules must be followed. Rules and guidelines evolve as the Sponge community evolves. Use only
-    as directed; excessive use of FLARD may rot your socks.
+.. warning::
+
+  The **Services Exchange** is for the advertisement of requests and offers of services, both paid and voluntary,
+  related to Minecraft or Sponge. Transactions between users must be done in private and not as replies to any posts
+  within the Exchange.
+
+  **Any agreed deal is at your own risk; the Sponge project takes no responsibility for third-party transactions.**
+  We cannot arbitrate on any transaction that is made as a result of an advertisement on the forums.
+
+The **Services Exchange** section on the forums allow for limited **advertising** for providing or requesting services.
+Such services may be in relation to the *development* of Sponge plugins or other assistance as may be required by
+Sponge server owners. The advertised services **may** be in exchange for payment. Examples of services that may be
+advertised in this section are:
+
+* Developers seeking commissioned work, such as plugin development services or server management
+
+* Server owners seeking the development of a plugin
+
+* Server owners seeking assistance with the management of their server
+
+Services that may **not** be advertised:
+
+* Work not related to Minecraft servers
+
+* The sale of existing plugins (or so-called "premium plugins")
+
+* Any work that would break the Minecraft EULA or our Terms of Service
+
+Developers seeking commissions must post in the Devs Available category, with or without rates, within the
+“Devs Available” Category. These posts must follow the
+`Devs Available Template and Rules <https://forums.spongepowered.org/t/devs-available-template-guidelines/15532>`__.
+
+Users advertising a job they need fulfilling must post in the "Service Exchange" Category, with or without a bounty,
+within the “Service Exchange” Category.  These posts must follow the
+`Service Exchange Template and Rules <https://forums.spongepowered.org/t/service-exchange-template-guidelines/15531>`__.
+
+Services may not be advertised or requested on any Sponge system outside of the **Services Exchange** forums section.
+
+Preliminary discussion by interested parties asking for clarification of the advertisement may be publically discussed
+on the thread, however any transaction relating to these advertisments, including a simple agreement to undertake the work,
+must be doing privately and not on the advertisement thread. Any posts that do not strictly to these rules will be taken down.
